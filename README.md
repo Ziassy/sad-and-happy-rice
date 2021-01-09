@@ -10,6 +10,11 @@
 ### Try It
 - [Sad And Happy Rice](https://www.instagram.com/ar/1609963292498881/)
 
+### Screenshot
+![main](screenshoot/happy.gif)
+
+![main](screenshoot/sad.gif)
+
 ### Get in Touch 
 
 - Twitter: [@ziassy](https://twitter.com/ZIASSY1)
